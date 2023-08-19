@@ -1,0 +1,3 @@
+create table customer(c_ID number(8),c_Name varchar2(15),c_AccNo number(10),c_AccType varchar2(14),c_balance number(8));
+insert into customer (c_ID,c_Name,c_AccNo,c_AccType,c_balance) values(84,'Raju',84858,'saving',94943);
+insert into customer (c_ID,c_Name,c_AccNo,c_AccType,c_balance) values(66,'Ram',94954,'current',9304);
